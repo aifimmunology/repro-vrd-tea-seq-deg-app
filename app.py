@@ -4,7 +4,7 @@
 
 # # VRd In Vitro DEG Comparison
 
-app_version = '1.0.0'  #20230907
+app_version = '1.0.1'  #20230907
 
 # Set Up
 from dash import dash, dcc, html, Input, Output, State, MATCH, ALL # dash_table
@@ -1292,7 +1292,7 @@ debug = False
 
 
 ### DEG Results
-fp = './data/2023-05-31_all_vrd_degs.pkl'
+fp = './data/all_mast_deg_2023-09-06.pkl'
 with open(fp, 'rb') as handle:
     df = pickle.load(handle)
 handle.close()
