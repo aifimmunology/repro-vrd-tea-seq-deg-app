@@ -5,3 +5,13 @@ This repository contains Jupyter Notebooks and python code for generating an Das
 ### Authors  
 Lauren Okada  
 Lucas Graybuck  
+
+## Legal Information
+
+### License
+
+The license for this repository is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq/blob/master/LICENSE)
+
+### Level of Support
+
+We are not currently supporting this code, but simply releasing it to the community AS IS but are not able to provide any guarantees of support. The community is welcome to submit issues, but you should not expect an active response.
