@@ -10,7 +10,7 @@ Lucas Graybuck
 
 ### License
 
-The license for this repository is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq/blob/master/LICENSE)
+The license for this repository is available on Github in the file [LICENSE in this repository](https://github.com/aifimmunology/repro-vrd-tea-seq-deg-app/blob/master/LICENSE)
 
 ### Level of Support
 
